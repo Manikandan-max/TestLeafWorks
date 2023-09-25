@@ -28,5 +28,5 @@ To view and run the assignments, you can follow these steps:
 
 1. Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/your-username/selenium-course-assignments.git
+   ```bash[
+   git clone https://github.com/Manikandan-max/TestLeafWorks.git
