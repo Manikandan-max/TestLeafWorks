@@ -6,13 +6,13 @@ Welcome to the Selenium Course Assignments repository! In this repository, you'l
 
 ### Week 1 - Introduction to Java Programming
 
-- [Prime Number Checker](Week1/PrimeNumberChecker.java)
+- [Prime Number Checker](src/main/java/org/example/week1/day2/Prime.java)
   - Description: A Java program to check if a given number is prime.
-- [Classes and Objects](Week1/ClassesAndObjects.java)
+- [Classes and Objects](src/main/java/org/example/week1/day2/EdgeBrowser.java)
   - Description: A Java program demonstrating the use of classes and objects.
-- [Odd Number Finder](Week1/OddNumberFinder.java)
+- [Odd Number Finder](src/main/java/org/example/week1/day2/OddNumberUsingLoop.java)
   - Description: A Java program to find and print odd numbers within a range.
-- [Fibonacci Series](Week1/FibonacciSeries.java)
+- [Fibonacci Series](src/main/java/org/example/week1/day2/FibonacciSeries.java)
   - Description: A Java program to generate and print Fibonacci series.
 
 ### Week 2 - Web Element Interactions
