@@ -14,6 +14,7 @@ public class PVRCinemas {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
         driver.get("https://www.pvrcinemas.com/");
+
         driver.findElement(By.xpath("//input[@placeholder='Search city']")).sendKeys("Chennai");
         driver.findElement(By.xpath("//img[@alt='Chennai']")).click();
         driver.findElement(By.xpath("//div[@class='nav-icon']")).click();
